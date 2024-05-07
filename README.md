@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/wallaceep/wallaceep/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{wallaceep}/{wallaceep}/output/github-contribution-grid-snake-dark.svg)
 
 <div>
   <h2> Connect with me: </h2>
