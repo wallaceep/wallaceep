@@ -1,5 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/wallaceep/wallaceep/output/github-contribution-grid-snake-dark.svg)
-
 <div>
   <h2> Connect with me: </h2>
   
@@ -8,3 +6,5 @@
   <hr> </hr>
   <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=wallaceep&show_icons=true&theme=material-palenight" alt="wallaceep" /><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceep&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="wallaceep" />
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/wallaceep/wallaceep/output/github-contribution-grid-snake-dark.svg)
